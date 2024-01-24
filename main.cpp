@@ -14,7 +14,6 @@ struct rcon_config {
     std::string_view server_ip;
     std::string_view server_port;
     std::string_view password;
-    ;
 };
 
 struct damon_config {
